@@ -12,6 +12,13 @@ Replace the "Howdy" text in the top right corner of your dashboard.
 
 This plugin will Replace the "Howdy" text in the top right corner of your dashboard. 
 
+
+== Screenshots ==
+
+1. After
+
+2. Befor
+
 == Installation ==
 
 1. Activate 'Replace Howdy' through the 'Plugins' menu in WordPress
