@@ -1,5 +1,5 @@
 === Remove Howdy ===
-Contributors: swadesh
+Contributors: swadeshswain
 Tags: howdy, replace howdy, customize howdy, change howdy
 Requires at least: 3.0
 Tested up to: 4.2
